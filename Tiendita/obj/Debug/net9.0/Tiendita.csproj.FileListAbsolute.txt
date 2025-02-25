@@ -1,0 +1,14 @@
+C:\Users\Lenovo\Documents\Proyectos VSC\Tiendita\obj\Debug\net9.0\Tiendita.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Documents\Proyectos VSC\Tiendita\obj\Debug\net9.0\Tiendita.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Documents\Proyectos VSC\Tiendita\obj\Debug\net9.0\Tiendita.AssemblyInfo.cs
+C:\Users\Lenovo\Documents\Proyectos VSC\Tiendita\obj\Debug\net9.0\Tiendita.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Documents\Proyectos VSC\Tiendita\bin\Debug\net9.0\Tiendita.exe
+C:\Users\Lenovo\Documents\Proyectos VSC\Tiendita\bin\Debug\net9.0\Tiendita.deps.json
+C:\Users\Lenovo\Documents\Proyectos VSC\Tiendita\bin\Debug\net9.0\Tiendita.runtimeconfig.json
+C:\Users\Lenovo\Documents\Proyectos VSC\Tiendita\bin\Debug\net9.0\Tiendita.dll
+C:\Users\Lenovo\Documents\Proyectos VSC\Tiendita\bin\Debug\net9.0\Tiendita.pdb
+C:\Users\Lenovo\Documents\Proyectos VSC\Tiendita\obj\Debug\net9.0\Tiendita.dll
+C:\Users\Lenovo\Documents\Proyectos VSC\Tiendita\obj\Debug\net9.0\refint\Tiendita.dll
+C:\Users\Lenovo\Documents\Proyectos VSC\Tiendita\obj\Debug\net9.0\Tiendita.pdb
+C:\Users\Lenovo\Documents\Proyectos VSC\Tiendita\obj\Debug\net9.0\Tiendita.genruntimeconfig.cache
+C:\Users\Lenovo\Documents\Proyectos VSC\Tiendita\obj\Debug\net9.0\ref\Tiendita.dll
